@@ -1,4 +1,4 @@
-import RandomNumberAPI
+from RandomNumberAPI import RandomNumberAPI
 from PrimeService import PrimeService
 
 

@@ -1,4 +1,4 @@
-from IsPrime import IsPrime
+from src.IsPrime import IsPrime
 
 class PrimeService:
 

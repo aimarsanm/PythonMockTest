@@ -13,7 +13,7 @@ Actúas como el agente de orquestación central. Tu objetivo es coordinar a dos 
 
 ## Fase 1: Coordinación del Agente de Diseño
 1. Analiza la solicitud inicial del usuario.
-2. Llama al sub-agente del **@designer** y pásale los requisitos del usuario.
+2. Llama al sub-agente del **@designer** , proporcionale el archivo pasado por el usuario y pásale los requisitos del usuario.
 3. **Espera el resultado:** Obtén los recursos de diseño, el manifiesto de activos y las especificaciones técnicas generadas por este sub-agente, que deben de estar completos en la carpeta `./testagents/plan.md`.
 
 ## Fase 2: Validación y Traspaso (Handoff)
